@@ -3,9 +3,9 @@
 
 ## I'm a Data Analyst, Energy Enthusiast and a Writer!!
 
-- 🌱I love creating amazing dashboards 🤣
-- 👯I’m looking to collaborate with amazing developers
-- 🥅I will love to contribute more to Open Source projects
+- I love creating amazing dashboards and visualizations
+- I’m looking to collaborate with amazing developers
+- I will love to contribute more to Open Source projects
 
 
 ### Connect with me:
@@ -24,10 +24,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/dash.svg" />]
 
-<br />
-<br />
-
----
 
 
 
