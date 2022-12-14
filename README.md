@@ -1,10 +1,10 @@
 ### Hi there, I'm Paul -👋
 
 
-## I'm a Data Analyst, Energy Enthusiast and a Writer!!
+## Building Pipelines as an Analytics Engineer...............
 
-- I love creating amazing dashboards and visualizations
-- I’m looking to collaborate with amazing developers
+- I love finding innovations solutions that centers around sustainable ELT processes
+- I consider myself to be an Automation Junkie
 - I will love to contribute more to Open Source projects
 
 
