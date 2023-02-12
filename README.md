@@ -11,7 +11,7 @@ I am well-versed in utilizing `Cloud Computing Resources`. I have worked with an
 --- | --- 
 ![Project 1](https://nwosupaulonye.s3.amazonaws.com/cover1.png) | ![Project 2](https://nwosupaulonye.s3.amazonaws.com/cover2.png) 
 
-[Project 3](https://github.com/paulonye/Cloudrunjobs/tree/main/yahooscrape1) | [Project 4](https://github.com/paulonye/Cloudrunjobs/tree/main/yahooscrape1) 
+[Project 3](https://github.com/paulonye/DockerXPostgres) | [Project 4](https://github.com/paulonye/DockerXPostgres) 
 --- | --- 
 ![Project 3](https://nwosupaulonye.s3.amazonaws.com/Cover3.png) | ![Project 4](https://nwosupaulonye.s3.amazonaws.com/cover4.png) 
 
