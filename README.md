@@ -2,6 +2,8 @@
 
 I am a `Data Engineer` with good experience in `Cloud Computing` and `Building ELT/ETL Pipelines`. I love working on end-to-end data projects and building sustainable data pipelines.
 
+I am well-versed in utilizing `Cloud Computing Resources`. I have worked with and know how to utilize `Google Cloud` and `AWS` resources. I have a special inkling for spinning up and carrying out my workloads on virtual machines in the Cloud.
+
 ## Connect with Me
 
 <div id="badges">
@@ -13,7 +15,7 @@ I am a `Data Engineer` with good experience in `Cloud Computing` and `Building E
   </a>
 </div>
 
-- 📫 You can reach me via [Email](nwosupaul141@gmail.com)
+📫 You can aslo reach me via [Email](nwosupaul141@gmail.com)
 
     
 ### My Series on Building Data Applications with Google Cloud
