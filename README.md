@@ -14,6 +14,7 @@ I am well-versed in utilizing `Cloud Computing Resources`. I have worked with an
 [Project 3](https://github.com/paulonye/DockerXPostgres) | [Project 4](https://github.com/paulonye/DockerXPostgres) 
 --- | --- 
 ![Project 3](https://nwosupaulonye.s3.amazonaws.com/Cover3.png) | ![Project 4](https://nwosupaulonye.s3.amazonaws.com/cover4.png) 
+
 [Project 5](https://github.com/paulonye/prefect_gcp) |  
 --- | --- 
 ![Project 5](https://nwosupaulonye.s3.amazonaws.com/cover5.png) |
@@ -30,6 +31,8 @@ I am well-versed in utilizing `Cloud Computing Resources`. I have worked with an
 :blue_book: [Configuration of a Postgres Database on Google Cloud](https://medium.com/@nwosupaul141/configuration-of-a-postgres-database-on-google-cloud-763f2f8dee6e)
 
 :blue_book: [Batching Web Data into a Postgres Database hosted on Google Cloud](https://medium.com/@nwosupaul141/batching-web-data-into-a-postgres-database-hosted-on-google-cloud-15af1674cdb3)
+
+:blue_book: [Orchestrating Data Pipelines with Prefect on GCP Infrastructure](https://medium.com/@nwosupaul141/orchestrating-data-pipelines-with-prefect-on-gcp-infrastructure-cdc7aaf42250)
 
 ## Connect with Me
 
