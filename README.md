@@ -15,7 +15,7 @@ I am well-versed in utilizing `Cloud Computing Resources`. I have worked with an
 --- | --- 
 ![Project 3](https://nwosupaulonye.s3.amazonaws.com/Cover3.png) | ![Project 4](https://nwosupaulonye.s3.amazonaws.com/cover4.png) 
 [Project 5](https://github.com/paulonye/prefect_gcp) |  
---- | --- 
+[Project 5](https://github.com/paulonye/prefect_gcp) | --- 
 ![Project 5](https://nwosupaulonye.s3.amazonaws.com/cover5.png) |
 
 
