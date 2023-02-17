@@ -18,7 +18,7 @@ I am well-versed in utilizing `Cloud Computing Resources`. I have worked with an
   <a href="https://github.com/paulonye/prefect_gcp">Project 5</a>
 </p>
 
-![Project 5](https://nwosupaulonye.s3.amazonaws.com/cover5.png) |
+![Project 5](https://nwosupaulonye.s3.amazonaws.com/cover5.png)
 
 
 ## Checkout My Medium articles
