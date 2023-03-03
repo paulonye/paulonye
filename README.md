@@ -1,6 +1,6 @@
 ## Hi there, I'm Paul -👋
 
-I am a `Data Engineer` with good experience in `Cloud Computing` and `Building ELT/ETL Pipelines`. I love working on end-to-end data projects and building sustainable data pipelines.
+I am a `Data Engineer` with good experience in `Cloud Computing` and `Building ELT/ETL Pipelines`. I love working on end-to-end data projects, orchestrating workflows, and building sustainable data pipelines.
 
 I am well-versed in utilizing `Cloud Computing Resources`. I have worked with and know how to utilize `Google Cloud` and `AWS` resources. I have a special inkling for spinning up and carrying out my workloads on virtual machines in the Cloud.
 
@@ -14,11 +14,10 @@ I am well-versed in utilizing `Cloud Computing Resources`. I have worked with an
 [Project 3](https://github.com/paulonye/DockerXPostgres) | [Project 4](https://github.com/paulonye/DockerXPostgres) 
 --- | --- 
 ![Project 3](https://nwosupaulonye.s3.amazonaws.com/Cover3.png) | ![Project 4](https://nwosupaulonye.s3.amazonaws.com/cover4.png) 
-<p align="center">
-  <a href="https://github.com/paulonye/prefect_gcp">Project 5</a>
-</p>
 
-![Project 5](https://nwosupaulonye.s3.amazonaws.com/cover5.png)
+[Project 5](https://github.com/paulonye/prefect_gcp) | [Project 6](https://github.com/paulonye/Cloudrunjobs/tree/main/prefectXcloudrun) 
+--- | --- 
+![Project 5](https://nwosupaulonye.s3.amazonaws.com/cover5.png) | ![Project 6](https://nwosupaulonye.s3.amazonaws.com/cover6.png) 
 
 
 ## Checkout My Medium articles
@@ -34,6 +33,8 @@ I am well-versed in utilizing `Cloud Computing Resources`. I have worked with an
 :blue_book: [Batching Web Data into a Postgres Database hosted on Google Cloud](https://medium.com/@nwosupaul141/batching-web-data-into-a-postgres-database-hosted-on-google-cloud-15af1674cdb3)
 
 :blue_book: [Orchestrating Data Pipelines with Prefect on GCP Infrastructure](https://medium.com/@nwosupaul141/orchestrating-data-pipelines-with-prefect-on-gcp-infrastructure-cdc7aaf42250)
+
+:blue_book: [Serverless Deployment of a Prefect Data Pipeline on Google Cloud Run](https://medium.com/@nwosupaul141/serverless-deployment-of-a-prefect-data-pipeline-on-google-cloud-run-8c48765f2480)
 
 ## Connect with Me
 
